@@ -1,4 +1,4 @@
-![Header](https://github.com/kostatuno/kostatuno/blob/main/src/leon-mr-robot-joey-badass.gif)
+![Header](https://github.com/kostatuno/kostatuno/blob/main/src/mreliot.gif)
 
 ## Languages and Tools
 ![C#](https://img.shields.io/badge/c%23-190909?style=for-the-badge&logo)
