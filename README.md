@@ -12,7 +12,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-290909?style=for-the-badge&logo)
 
 ![HTML&CSS basic](https://img.shields.io/badge/HTML&CSS_basic-190909?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/HTML&CSS_basic-190909?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-190909?style=for-the-badge)
 
 
 <a href="https://drive.google.com/drive/folders/1q3D3EwNdQzUme0GSOXyPJBfhTOvtZrQL?usp=sharing">Some certifications</a>
