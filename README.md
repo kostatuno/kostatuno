@@ -3,8 +3,11 @@
 ## Languages and Tools
 ![C#](https://img.shields.io/badge/c%23-290909?style=for-the-badge&logo)
 ![.NET](https://img.shields.io/badge/.NET-290909?style=for-the-badge&logo)
-![LINQ](https://img.shields.io/badge/LINQ-290909?style=for-the-badge&logo)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-290909?style=for-the-badge&logo)
+
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-290909?style=for-the-badge&logo)
+![LINQ](https://img.shields.io/badge/LINQ-290909?style=for-the-badge&logo)
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-290909?style=for-the-badge&logo)
 
 ![SQL](https://img.shields.io/badge/SQL-290909?style=for-the-badge&logo)
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-290909?style=for-the-badge&logo)
